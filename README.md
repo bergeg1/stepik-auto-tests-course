@@ -1,4 +1,4 @@
 ﻿# stepik-auto-tests-course
 stepik — auto tests course homework
-course reference: https://stepik.org/course/575/syllabus
+Это репозиторий для хранения домашних работ по курсу автоматизтрованного тестирования https://stepik.org/course/575/syllabus
 
